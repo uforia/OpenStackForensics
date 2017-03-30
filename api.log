@@ -1,0 +1,207 @@
+2014-04-16 20:40:48.613 2520 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-16 20:40:48.614 2520 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-16 20:40:48.635 2520 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-16 20:40:48.646 2520 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-16 20:54:04.366 2731 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-16 20:54:04.367 2731 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-16 20:54:04.384 2731 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-16 20:54:04.405 2731 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-16 20:54:04.522 2731 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-17 09:36:23.295 1419 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-17 09:36:23.296 1419 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-17 09:36:23.355 1419 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-17 09:36:23.398 1419 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-17 09:36:23.557 1419 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-17 13:48:16.860 1416 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-17 13:48:16.869 1416 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-17 13:48:16.940 1416 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-17 13:48:16.993 1416 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-17 13:48:17.168 1416 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-17 13:54:25.858 1399 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-17 13:54:25.859 1399 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-17 13:54:25.932 1399 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-17 13:54:25.974 1399 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-17 13:54:26.132 1399 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-17 14:16:46.009 1404 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-17 14:16:46.010 1404 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-17 14:16:46.091 1404 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-17 14:16:46.146 1404 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-17 14:16:46.339 1404 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-17 14:37:25.137 1404 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-17 14:37:25.137 1404 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-17 14:37:25.202 1404 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-17 14:37:25.256 1404 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-17 14:37:25.476 1404 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 14:24:08.113 1394 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 14:24:08.114 1394 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 14:24:08.191 1394 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 14:24:08.248 1394 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 14:24:08.432 1394 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 14:40:56.026 1358 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 14:40:56.028 1358 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 14:40:56.115 1358 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 14:40:56.176 1358 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 14:40:56.371 1358 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 14:42:06.207 1428 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 14:42:06.209 1428 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 14:42:06.285 1428 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 14:42:06.337 1428 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 14:42:06.531 1428 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 14:49:20.639 1431 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 14:49:20.640 1431 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 14:49:20.706 1431 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 14:49:20.755 1431 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 14:49:20.945 1431 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 14:54:39.481 1410 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 14:54:39.484 1410 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 14:54:39.536 1410 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 14:54:39.583 1410 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 14:54:39.784 1410 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 15:45:05.078 1444 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 15:45:05.078 1444 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 15:45:05.150 1444 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 15:45:05.189 1444 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 15:45:05.375 1444 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 15:57:28.901 1415 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 15:57:28.904 1415 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 15:57:28.958 1415 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 15:57:28.999 1415 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 15:57:29.203 1415 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-21 17:50:14.786 1486 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-21 17:50:14.789 1486 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-21 17:50:14.866 1486 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-21 17:50:14.907 1486 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-21 17:50:15.138 1486 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint
+2014-04-22 11:07:26.163 1492 ERROR glance.store.sheepdog [-] Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n'
+2014-04-22 11:07:26.164 1492 WARNING glance.store.base [-] Failed to configure store correctly: Store sheepdog could not be configured correctly. Reason: Error in store configuration: Unexpected error while running command.
+Command: collie
+Exit code: 127
+Stdout: ''
+Stderr: '/bin/sh: 1: collie: not found\n' Disabling add method.
+2014-04-22 11:07:26.234 1492 WARNING glance.store.base [-] Failed to configure store correctly: Store cinder could not be configured correctly. Reason: Cinder storage requires a context. Disabling add method.
+2014-04-22 11:07:26.285 1492 WARNING glance.api.v2.images [-] Could not find schema properties file schema-image.json. Continuing without custom properties
+2014-04-22 11:07:26.496 1492 WARNING keystoneclient.middleware.auth_token [-] Configuring auth_uri to point to the public identity endpoint is required; clients may not be able to authenticate against an admin endpoint

@@ -1,0 +1,1 @@
+2014-04-17 17:21:24.273 1599 WARNING glance.db.sqlalchemy.api [4bc39d89-762c-4ba7-abdf-fa97f88aa338 3fef801fdc884caaadda82e726edd092 82422568ec544c5e9d556a7977212b84] Got mysql server has gone away: (2006, 'MySQL server has gone away')

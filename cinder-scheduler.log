@@ -1,0 +1,377 @@
+2014-04-17 12:58:41.454 5364 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-17 12:58:44.897 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 1 seconds.
+2014-04-17 12:58:45.899 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:58:48.916 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 3 seconds.
+2014-04-17 12:58:51.918 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:58:54.934 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 5 seconds.
+2014-04-17 12:58:59.938 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:59:02.954 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 7 seconds.
+2014-04-17 12:59:09.960 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:59:12.975 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 9 seconds.
+2014-04-17 12:59:21.977 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:59:24.993 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 11 seconds.
+2014-04-17 12:59:36.003 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:59:39.019 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 13 seconds.
+2014-04-17 12:59:52.031 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 12:59:55.047 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 15 seconds.
+2014-04-17 13:00:10.061 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:00:13.077 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 17 seconds.
+2014-04-17 13:00:30.086 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:00:33.101 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 19 seconds.
+2014-04-17 13:00:52.119 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:00:55.135 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 21 seconds.
+2014-04-17 13:01:16.155 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:01:19.171 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 23 seconds.
+2014-04-17 13:01:42.181 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:01:45.197 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 25 seconds.
+2014-04-17 13:02:10.202 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:02:13.218 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 27 seconds.
+2014-04-17 13:02:40.244 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:02:43.259 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 29 seconds.
+2014-04-17 13:03:12.287 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:03:15.303 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:03:45.332 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:03:48.348 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:04:18.377 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:04:21.392 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:04:51.403 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:04:54.418 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:05:24.447 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:05:27.463 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:05:57.492 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:06:00.507 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:06:30.536 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:06:33.551 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:07:03.580 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:07:06.595 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:07:36.624 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:07:39.639 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:08:09.668 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:08:12.683 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:08:42.712 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:08:45.729 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:09:15.732 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:09:18.748 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:09:48.777 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:09:51.793 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:10:21.822 5364 INFO cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-17 13:10:24.838 5364 ERROR cinder.openstack.common.rpc.common [req-1e15177a-e0ec-4964-8975-6f189bfec1c9 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-17 13:10:44.428 5364 AUDIT cinder.service [-] SIGTERM received
+2014-04-17 13:10:44.861 5463 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-17 13:10:45.259 5463 INFO cinder.openstack.common.rpc.common [req-9f6f0753-1bdd-42a7-b01d-2249377f8352 None None] Connected to AMQP server on csi:5672
+2014-04-17 13:10:45.275 5463 INFO cinder.openstack.common.rpc.common [req-9f6f0753-1bdd-42a7-b01d-2249377f8352 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:15:42.872 5463 AUDIT cinder.service [-] SIGTERM received
+2014-04-17 14:16:52.426 964 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-17 14:16:54.789 964 INFO cinder.openstack.common.rpc.common [req-0ee76e6f-f2ce-4d9e-9151-32d0d7b11fab None None] Connected to AMQP server on csi:5672
+2014-04-17 14:16:54.806 964 INFO cinder.openstack.common.rpc.common [req-0ee76e6f-f2ce-4d9e-9151-32d0d7b11fab None None] Connected to AMQP server on csi:5672
+2014-04-17 14:37:22.162 964 AUDIT cinder.service [-] SIGTERM received
+2014-04-17 14:38:31.855 967 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-17 14:38:34.157 967 INFO cinder.openstack.common.rpc.common [req-22539a14-74bf-4874-9ceb-db621b862d34 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:38:34.173 967 INFO cinder.openstack.common.rpc.common [req-22539a14-74bf-4874-9ceb-db621b862d34 None None] Connected to AMQP server on csi:5672
+2014-04-17 17:15:09.120 967 AUDIT cinder.service [-] SIGTERM received
+2014-04-17 17:16:20.423 962 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-17 17:16:23.268 962 INFO cinder.openstack.common.rpc.common [req-fdf4e71c-0283-4b84-8fbb-acfb9a0d495a None None] Connected to AMQP server on csi:5672
+2014-04-17 17:16:23.289 962 INFO cinder.openstack.common.rpc.common [req-fdf4e71c-0283-4b84-8fbb-acfb9a0d495a None None] Connected to AMQP server on csi:5672
+2014-04-17 18:14:50.241 962 AUDIT cinder.service [-] SIGTERM received
+2014-04-21 14:24:17.027 968 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 14:24:20.096 968 INFO cinder.openstack.common.rpc.common [req-dbf05e79-cf71-4c6e-b884-7f8ed62a279a None None] Connected to AMQP server on csi:5672
+2014-04-21 14:24:20.112 968 INFO cinder.openstack.common.rpc.common [req-dbf05e79-cf71-4c6e-b884-7f8ed62a279a None None] Connected to AMQP server on csi:5672
+2014-04-21 14:41:03.885 1096 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 14:41:05.262 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:41:15.274 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:41:25.286 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:41:35.298 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:41:45.309 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:41:55.321 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:43:09.743 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:43:22.751 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:43:33.315 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:43:46.323 1096 WARNING cinder.openstack.common.db.sqlalchemy.session [req-b95c2776-5cff-4969-9b67-3692d484de89 None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:43:58.471 1096 CRITICAL cinder [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (113)") None None
+2014-04-21 14:43:58.471 1096 TRACE cinder Traceback (most recent call last):
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/bin/cinder-scheduler", line 60, in <module>
+2014-04-21 14:43:58.471 1096 TRACE cinder     service.wait()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 624, in wait
+2014-04-21 14:43:58.471 1096 TRACE cinder     _launcher.wait()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 135, in wait
+2014-04-21 14:43:58.471 1096 TRACE cinder     service.wait()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:43:58.471 1096 TRACE cinder     return self._exit_event.wait()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:43:58.471 1096 TRACE cinder     return hubs.get_hub().switch()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:43:58.471 1096 TRACE cinder     return self.greenlet.switch()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:43:58.471 1096 TRACE cinder     result = function(*args, **kwargs)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 96, in run_server
+2014-04-21 14:43:58.471 1096 TRACE cinder     server.start()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 364, in start
+2014-04-21 14:43:58.471 1096 TRACE cinder     self.binary)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/api.py", line 131, in service_get_by_args
+2014-04-21 14:43:58.471 1096 TRACE cinder     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 120, in wrapper
+2014-04-21 14:43:58.471 1096 TRACE cinder     return f(*args, **kwargs)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 387, in service_get_by_args
+2014-04-21 14:43:58.471 1096 TRACE cinder     result = model_query(context, models.Service).\
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 179, in model_query
+2014-04-21 14:43:58.471 1096 TRACE cinder     session = kwargs.get('session') or get_session()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 376, in get_session
+2014-04-21 14:43:58.471 1096 TRACE cinder     engine = get_engine(sqlite_fk=sqlite_fk)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 498, in get_engine
+2014-04-21 14:43:58.471 1096 TRACE cinder     sqlite_fk=sqlite_fk)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 616, in create_engine
+2014-04-21 14:43:58.471 1096 TRACE cinder     engine.connect()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:43:58.471 1096 TRACE cinder     return self._connection_cls(self, **kwargs)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:43:58.471 1096 TRACE cinder     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:43:58.471 1096 TRACE cinder     return self.pool.unique_connection()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:43:58.471 1096 TRACE cinder     return _ConnectionFairy(self).checkout()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:43:58.471 1096 TRACE cinder     rec = self._connection_record = pool._do_get()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:43:58.471 1096 TRACE cinder     con = self._create_connection()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:43:58.471 1096 TRACE cinder     return _ConnectionRecord(self)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:43:58.471 1096 TRACE cinder     self.connection = self.__connect()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:43:58.471 1096 TRACE cinder     connection = self.__pool._creator()
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:43:58.471 1096 TRACE cinder     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:43:58.471 1096 TRACE cinder     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:43:58.471 1096 TRACE cinder     return Connection(*args, **kwargs)
+2014-04-21 14:43:58.471 1096 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:43:58.471 1096 TRACE cinder     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:43:58.471 1096 TRACE cinder OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (113)") None None
+2014-04-21 14:43:58.471 1096 TRACE cinder 
+2014-04-21 14:49:25.508 974 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 14:49:26.882 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:49:36.891 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:49:46.903 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:49:56.914 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:50:06.926 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:50:16.937 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:50:26.949 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:50:36.961 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:50:46.972 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:50:56.984 974 WARNING cinder.openstack.common.db.sqlalchemy.session [req-aba1e3e4-1619-4f09-861e-3cb108830c8d None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:51:07.131 974 CRITICAL cinder [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:51:07.131 974 TRACE cinder Traceback (most recent call last):
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/bin/cinder-scheduler", line 60, in <module>
+2014-04-21 14:51:07.131 974 TRACE cinder     service.wait()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 624, in wait
+2014-04-21 14:51:07.131 974 TRACE cinder     _launcher.wait()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 135, in wait
+2014-04-21 14:51:07.131 974 TRACE cinder     service.wait()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:51:07.131 974 TRACE cinder     return self._exit_event.wait()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:51:07.131 974 TRACE cinder     return hubs.get_hub().switch()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:51:07.131 974 TRACE cinder     return self.greenlet.switch()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:51:07.131 974 TRACE cinder     result = function(*args, **kwargs)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 96, in run_server
+2014-04-21 14:51:07.131 974 TRACE cinder     server.start()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 364, in start
+2014-04-21 14:51:07.131 974 TRACE cinder     self.binary)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/api.py", line 131, in service_get_by_args
+2014-04-21 14:51:07.131 974 TRACE cinder     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 120, in wrapper
+2014-04-21 14:51:07.131 974 TRACE cinder     return f(*args, **kwargs)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 387, in service_get_by_args
+2014-04-21 14:51:07.131 974 TRACE cinder     result = model_query(context, models.Service).\
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 179, in model_query
+2014-04-21 14:51:07.131 974 TRACE cinder     session = kwargs.get('session') or get_session()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 376, in get_session
+2014-04-21 14:51:07.131 974 TRACE cinder     engine = get_engine(sqlite_fk=sqlite_fk)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 498, in get_engine
+2014-04-21 14:51:07.131 974 TRACE cinder     sqlite_fk=sqlite_fk)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 616, in create_engine
+2014-04-21 14:51:07.131 974 TRACE cinder     engine.connect()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:51:07.131 974 TRACE cinder     return self._connection_cls(self, **kwargs)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:51:07.131 974 TRACE cinder     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:51:07.131 974 TRACE cinder     return self.pool.unique_connection()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:51:07.131 974 TRACE cinder     return _ConnectionFairy(self).checkout()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:51:07.131 974 TRACE cinder     rec = self._connection_record = pool._do_get()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:51:07.131 974 TRACE cinder     con = self._create_connection()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:51:07.131 974 TRACE cinder     return _ConnectionRecord(self)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:51:07.131 974 TRACE cinder     self.connection = self.__connect()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:51:07.131 974 TRACE cinder     connection = self.__pool._creator()
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:51:07.131 974 TRACE cinder     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:51:07.131 974 TRACE cinder     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:51:07.131 974 TRACE cinder     return Connection(*args, **kwargs)
+2014-04-21 14:51:07.131 974 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:51:07.131 974 TRACE cinder     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:51:07.131 974 TRACE cinder OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:51:07.131 974 TRACE cinder 
+2014-04-21 14:54:46.408 972 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 14:54:47.808 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:54:57.820 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:55:07.831 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:55:17.843 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:55:27.854 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:55:37.863 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:55:47.872 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:55:57.883 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:56:07.895 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:56:17.907 972 WARNING cinder.openstack.common.db.sqlalchemy.session [req-c54629d1-85c8-4bda-9937-2e5e5446e9b8 None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:56:28.045 972 CRITICAL cinder [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:56:28.045 972 TRACE cinder Traceback (most recent call last):
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/bin/cinder-scheduler", line 60, in <module>
+2014-04-21 14:56:28.045 972 TRACE cinder     service.wait()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 624, in wait
+2014-04-21 14:56:28.045 972 TRACE cinder     _launcher.wait()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 135, in wait
+2014-04-21 14:56:28.045 972 TRACE cinder     service.wait()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:56:28.045 972 TRACE cinder     return self._exit_event.wait()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:56:28.045 972 TRACE cinder     return hubs.get_hub().switch()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:56:28.045 972 TRACE cinder     return self.greenlet.switch()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:56:28.045 972 TRACE cinder     result = function(*args, **kwargs)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 96, in run_server
+2014-04-21 14:56:28.045 972 TRACE cinder     server.start()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 364, in start
+2014-04-21 14:56:28.045 972 TRACE cinder     self.binary)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/api.py", line 131, in service_get_by_args
+2014-04-21 14:56:28.045 972 TRACE cinder     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 120, in wrapper
+2014-04-21 14:56:28.045 972 TRACE cinder     return f(*args, **kwargs)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 387, in service_get_by_args
+2014-04-21 14:56:28.045 972 TRACE cinder     result = model_query(context, models.Service).\
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 179, in model_query
+2014-04-21 14:56:28.045 972 TRACE cinder     session = kwargs.get('session') or get_session()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 376, in get_session
+2014-04-21 14:56:28.045 972 TRACE cinder     engine = get_engine(sqlite_fk=sqlite_fk)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 498, in get_engine
+2014-04-21 14:56:28.045 972 TRACE cinder     sqlite_fk=sqlite_fk)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 616, in create_engine
+2014-04-21 14:56:28.045 972 TRACE cinder     engine.connect()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:56:28.045 972 TRACE cinder     return self._connection_cls(self, **kwargs)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:56:28.045 972 TRACE cinder     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:56:28.045 972 TRACE cinder     return self.pool.unique_connection()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:56:28.045 972 TRACE cinder     return _ConnectionFairy(self).checkout()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:56:28.045 972 TRACE cinder     rec = self._connection_record = pool._do_get()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:56:28.045 972 TRACE cinder     con = self._create_connection()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:56:28.045 972 TRACE cinder     return _ConnectionRecord(self)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:56:28.045 972 TRACE cinder     self.connection = self.__connect()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:56:28.045 972 TRACE cinder     connection = self.__pool._creator()
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:56:28.045 972 TRACE cinder     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:56:28.045 972 TRACE cinder     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:56:28.045 972 TRACE cinder     return Connection(*args, **kwargs)
+2014-04-21 14:56:28.045 972 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:56:28.045 972 TRACE cinder     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:56:28.045 972 TRACE cinder OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:56:28.045 972 TRACE cinder 
+2014-04-21 15:43:00.591 1002 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 15:43:02.296 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 10 attempts left.
+2014-04-21 15:43:12.342 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 9 attempts left.
+2014-04-21 15:43:22.354 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 8 attempts left.
+2014-04-21 15:43:32.365 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 7 attempts left.
+2014-04-21 15:43:42.373 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 6 attempts left.
+2014-04-21 15:43:52.385 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 5 attempts left.
+2014-04-21 15:44:02.396 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 4 attempts left.
+2014-04-21 15:44:12.408 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 3 attempts left.
+2014-04-21 15:44:22.420 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 2 attempts left.
+2014-04-21 15:44:32.432 1002 WARNING cinder.openstack.common.db.sqlalchemy.session [req-ff8c31e0-a6ef-4ac3-b9bd-01047e69850a None None] SQL connection failed. 1 attempts left.
+2014-04-21 15:44:42.578 1002 CRITICAL cinder [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 15:44:42.578 1002 TRACE cinder Traceback (most recent call last):
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/bin/cinder-scheduler", line 60, in <module>
+2014-04-21 15:44:42.578 1002 TRACE cinder     service.wait()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 624, in wait
+2014-04-21 15:44:42.578 1002 TRACE cinder     _launcher.wait()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 135, in wait
+2014-04-21 15:44:42.578 1002 TRACE cinder     service.wait()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 15:44:42.578 1002 TRACE cinder     return self._exit_event.wait()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 15:44:42.578 1002 TRACE cinder     return hubs.get_hub().switch()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 15:44:42.578 1002 TRACE cinder     return self.greenlet.switch()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 15:44:42.578 1002 TRACE cinder     result = function(*args, **kwargs)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 96, in run_server
+2014-04-21 15:44:42.578 1002 TRACE cinder     server.start()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/service.py", line 364, in start
+2014-04-21 15:44:42.578 1002 TRACE cinder     self.binary)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/api.py", line 131, in service_get_by_args
+2014-04-21 15:44:42.578 1002 TRACE cinder     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 120, in wrapper
+2014-04-21 15:44:42.578 1002 TRACE cinder     return f(*args, **kwargs)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 387, in service_get_by_args
+2014-04-21 15:44:42.578 1002 TRACE cinder     result = model_query(context, models.Service).\
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/db/sqlalchemy/api.py", line 179, in model_query
+2014-04-21 15:44:42.578 1002 TRACE cinder     session = kwargs.get('session') or get_session()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 376, in get_session
+2014-04-21 15:44:42.578 1002 TRACE cinder     engine = get_engine(sqlite_fk=sqlite_fk)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 498, in get_engine
+2014-04-21 15:44:42.578 1002 TRACE cinder     sqlite_fk=sqlite_fk)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/cinder/openstack/common/db/sqlalchemy/session.py", line 616, in create_engine
+2014-04-21 15:44:42.578 1002 TRACE cinder     engine.connect()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 15:44:42.578 1002 TRACE cinder     return self._connection_cls(self, **kwargs)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 15:44:42.578 1002 TRACE cinder     self.__connection = connection or engine.raw_connection()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 15:44:42.578 1002 TRACE cinder     return self.pool.unique_connection()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 15:44:42.578 1002 TRACE cinder     return _ConnectionFairy(self).checkout()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 15:44:42.578 1002 TRACE cinder     rec = self._connection_record = pool._do_get()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 15:44:42.578 1002 TRACE cinder     con = self._create_connection()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 15:44:42.578 1002 TRACE cinder     return _ConnectionRecord(self)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 15:44:42.578 1002 TRACE cinder     self.connection = self.__connect()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 15:44:42.578 1002 TRACE cinder     connection = self.__pool._creator()
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 15:44:42.578 1002 TRACE cinder     return dialect.connect(*cargs, **cparams)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 15:44:42.578 1002 TRACE cinder     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 15:44:42.578 1002 TRACE cinder     return Connection(*args, **kwargs)
+2014-04-21 15:44:42.578 1002 TRACE cinder   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 15:44:42.578 1002 TRACE cinder     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 15:44:42.578 1002 TRACE cinder OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 15:44:42.578 1002 TRACE cinder 
+2014-04-21 15:56:19.754 971 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-21 15:56:24.076 971 INFO cinder.openstack.common.rpc.common [req-6e034b74-28c3-44dc-a8f4-6fb94ad718d2 None None] Connected to AMQP server on csi:5672
+2014-04-21 15:56:24.159 971 INFO cinder.openstack.common.rpc.common [req-6e034b74-28c3-44dc-a8f4-6fb94ad718d2 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:05:16.864 971 AUDIT cinder.service [-] SIGTERM received
+2014-04-22 11:06:23.656 963 AUDIT cinder.service [-] Starting cinder-scheduler node (version 2013.2.2)
+2014-04-22 11:06:28.302 963 INFO cinder.openstack.common.rpc.common [req-00693148-b191-4180-8d9b-4ef76250f34c None None] Connected to AMQP server on csi:5672
+2014-04-22 11:06:28.323 963 INFO cinder.openstack.common.rpc.common [req-00693148-b191-4180-8d9b-4ef76250f34c None None] Connected to AMQP server on csi:5672

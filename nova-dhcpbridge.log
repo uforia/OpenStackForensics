@@ -1,0 +1,139 @@
+2014-04-16 21:42:42.555 18737 INFO nova.openstack.common.periodic_task [req-eedd7b04-af75-4a2c-988d-a746c94fdea3 None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-16 21:42:42.555 18737 INFO nova.network.driver [req-eedd7b04-af75-4a2c-988d-a746c94fdea3 None None] Loading network driver 'nova.network.linux_net'
+2014-04-16 21:43:16.713 19011 INFO nova.openstack.common.rpc.common [req-fe92dece-1320-406f-a0cd-c7b57fe24b1c None None] Connected to AMQP server on csi:5672
+2014-04-16 21:48:28.087 19437 ERROR nova.openstack.common.rpc.common [req-ec14df42-6f7f-4ef4-9ddc-43eed4fc7821 None None] AMQP server on csi:5672 is unreachable: timed out. Trying again in 1 seconds.
+2014-04-16 21:48:29.093 19437 INFO nova.openstack.common.rpc.common [req-ec14df42-6f7f-4ef4-9ddc-43eed4fc7821 None None] Reconnecting to AMQP server on csi:5672
+2014-04-16 21:48:34.101 19437 ERROR nova.openstack.common.rpc.common [req-ec14df42-6f7f-4ef4-9ddc-43eed4fc7821 None None] AMQP server on csi:5672 is unreachable: timed out. Trying again in 3 seconds.
+2014-04-16 21:48:37.116 19437 INFO nova.openstack.common.rpc.common [req-ec14df42-6f7f-4ef4-9ddc-43eed4fc7821 None None] Reconnecting to AMQP server on csi:5672
+2014-04-17 09:36:40.129 1936 INFO nova.openstack.common.periodic_task [req-d27b5fa8-ad5a-474c-b911-d4f2a7b9710d None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 09:36:40.130 1936 INFO nova.network.driver [req-d27b5fa8-ad5a-474c-b911-d4f2a7b9710d None None] Loading network driver 'nova.network.linux_net'
+2014-04-17 09:38:50.621 1999 INFO nova.openstack.common.rpc.common [req-9e2d3e24-878e-4755-9421-7cc4ae4fe4d5 None None] Connected to AMQP server on csi:5672
+2014-04-17 10:41:44.468 2823 INFO nova.openstack.common.rpc.common [req-4275e42e-63c3-480a-a431-0c569fd6b6fa None None] Connected to AMQP server on csi:5672
+2014-04-17 13:40:52.923 5355 INFO nova.openstack.common.rpc.common [req-88a6a1d1-1d9f-4d29-9a6f-614e44769bd8 None None] Connected to AMQP server on csi:5672
+2014-04-17 13:48:21.877 1942 INFO nova.openstack.common.periodic_task [req-b10e08fc-f259-41b5-9d5a-95cc049efe57 None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 13:48:21.878 1942 INFO nova.network.driver [req-b10e08fc-f259-41b5-9d5a-95cc049efe57 None None] Loading network driver 'nova.network.linux_net'
+2014-04-17 13:50:29.044 2302 INFO nova.openstack.common.rpc.common [req-0ca63070-330a-4a90-9514-5a38d2966820 None None] Connected to AMQP server on csi:5672
+2014-04-17 13:54:30.857 1926 INFO nova.openstack.common.periodic_task [req-652eb6f2-38fa-4e7f-9e18-8b63eeeb376b None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 13:54:30.858 1926 INFO nova.network.driver [req-652eb6f2-38fa-4e7f-9e18-8b63eeeb376b None None] Loading network driver 'nova.network.linux_net'
+2014-04-17 14:07:13.035 3491 INFO nova.openstack.common.rpc.common [req-7a55e79f-4730-4650-9e8d-14c011480357 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:16:08.218 4041 ERROR nova.openstack.common.rpc.common [req-ad2c2621-eda4-430a-8692-29907c4bba25 None None] AMQP server on csi:5672 is unreachable: timed out. Trying again in 1 seconds.
+2014-04-17 14:16:09.224 4041 INFO nova.openstack.common.rpc.common [req-ad2c2621-eda4-430a-8692-29907c4bba25 None None] Reconnecting to AMQP server on csi:5672
+2014-04-17 14:16:14.232 4041 ERROR nova.openstack.common.rpc.common [req-ad2c2621-eda4-430a-8692-29907c4bba25 None None] AMQP server on csi:5672 is unreachable: timed out. Trying again in 3 seconds.
+2014-04-17 14:16:17.248 4041 INFO nova.openstack.common.rpc.common [req-ad2c2621-eda4-430a-8692-29907c4bba25 None None] Reconnecting to AMQP server on csi:5672
+2014-04-17 14:16:54.078 1902 INFO nova.openstack.common.periodic_task [req-de1c39ce-fa70-45c9-8ad5-8f8050041d82 None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 14:16:54.083 1902 INFO nova.network.driver [req-de1c39ce-fa70-45c9-8ad5-8f8050041d82 None None] Loading network driver 'nova.network.linux_net'
+2014-04-17 14:19:05.046 2292 INFO nova.openstack.common.rpc.common [req-53a849ef-0748-4fcf-afe0-ccc7a03c4265 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:35:22.473 2968 INFO nova.openstack.common.rpc.common [req-f49ee33a-9d0d-443e-8da3-e74cb768bba3 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:36:52.401 3067 INFO nova.openstack.common.rpc.common [req-97fc993a-1436-4532-8dab-5b1b622b0565 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:37:30.459 1973 INFO nova.openstack.common.periodic_task [req-c7c86a3f-ea1f-4778-9ffe-294b1ab3f73d None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 14:37:30.460 1973 INFO nova.network.driver [req-c7c86a3f-ea1f-4778-9ffe-294b1ab3f73d None None] Loading network driver 'nova.network.linux_net'
+2014-04-17 14:39:41.026 2041 INFO nova.openstack.common.rpc.common [req-1f7209df-6fe3-4d14-9f5b-ae9bba549555 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:42:40.398 2379 INFO nova.openstack.common.rpc.common [req-743dd23a-ce0c-4530-a829-f852cc5e6f76 None None] Connected to AMQP server on csi:5672
+2014-04-17 15:01:58.850 3863 INFO nova.openstack.common.rpc.common [req-f32445b8-2f5a-4df9-9b26-17dc6b4e1a51 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:57:17.291 7457 INFO nova.openstack.common.rpc.common [req-a5c0d420-eb5a-445b-b8ec-a3a8725bbcfb None None] Connected to AMQP server on csi:5672
+2014-04-17 16:58:05.967 8316 INFO nova.openstack.common.rpc.common [req-3724c5e8-cf1f-4366-aac4-fb55141be8d8 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:58:22.329 8578 INFO nova.openstack.common.rpc.common [req-195d7de3-4812-4d4d-9974-1514a86d3d11 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:58:39.111 8830 INFO nova.openstack.common.rpc.common [req-e1b56653-c2bb-452b-a60f-7286eb9e8584 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:58:55.804 9114 INFO nova.openstack.common.rpc.common [req-3387d129-5bb7-4232-8802-718914041f1f None None] Connected to AMQP server on csi:5672
+2014-04-17 16:59:13.722 9400 INFO nova.openstack.common.rpc.common [req-f8a4588c-1694-4064-a205-002ec8e46138 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:59:26.639 9617 INFO nova.openstack.common.rpc.common [req-ca16d0d7-ddbd-4600-8eb5-eb70396be377 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:59:30.424 9646 INFO nova.openstack.common.rpc.common [req-d3204e84-53d3-4b81-887f-6b223e01b8b4 None None] Connected to AMQP server on csi:5672
+2014-04-17 16:59:47.221 9873 INFO nova.openstack.common.rpc.common [req-7ae49a77-9560-4e74-bf23-1288d56c92dd None None] Connected to AMQP server on csi:5672
+2014-04-17 17:00:06.501 9942 INFO nova.openstack.common.rpc.common [req-31a6b79d-cb79-4bbf-982a-d93da91a4b93 None None] Connected to AMQP server on csi:5672
+2014-04-17 17:00:31.491 9973 INFO nova.openstack.common.rpc.common [req-941cf48c-294f-4b4a-9270-62e757e6dd6f None None] Connected to AMQP server on csi:5672
+2014-04-17 17:00:40.029 9992 INFO nova.openstack.common.rpc.common [req-5dfbe4cb-4217-46e8-9af3-e1e110ad2b3d None None] Connected to AMQP server on csi:5672
+2014-04-17 17:01:04.276 10048 INFO nova.openstack.common.rpc.common [req-5636667d-3d6b-4afe-b6ff-d966f6a8ba4c None None] Connected to AMQP server on csi:5672
+2014-04-17 17:01:20.213 10064 INFO nova.openstack.common.rpc.common [req-8bb327a2-832f-4e69-a69f-e70c5adfd869 None None] Connected to AMQP server on csi:5672
+2014-04-17 17:01:40.087 10075 INFO nova.openstack.common.rpc.common [req-04524222-5b0c-46b1-aedb-027420ee3372 None None] Connected to AMQP server on csi:5672
+2014-04-17 17:01:51.868 10091 INFO nova.openstack.common.rpc.common [req-e4284eb3-0e87-4a15-af3d-e2f8e2eff39a None None] Connected to AMQP server on csi:5672
+2014-04-17 17:22:07.408 11571 INFO nova.openstack.common.rpc.common [req-8dd1309a-adb6-430d-a689-3e46c331609d None None] Connected to AMQP server on csi:5672
+2014-04-17 17:24:08.030 11761 INFO nova.openstack.common.rpc.common [req-0bed80d7-dcc6-4abe-8496-b6bba5fa09a8 None None] Connected to AMQP server on csi:5672
+2014-04-21 14:24:26.102 1912 INFO nova.openstack.common.periodic_task [req-65a3eecf-0a79-4849-b99a-7ce9ff36d444 None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 14:24:26.107 1912 INFO nova.network.driver [req-65a3eecf-0a79-4849-b99a-7ce9ff36d444 None None] Loading network driver 'nova.network.linux_net'
+2014-04-21 14:26:37.005 2554 INFO nova.openstack.common.rpc.common [req-56135675-5804-4852-bd4d-53b7b7eb2899 None None] Connected to AMQP server on csi:5672
+2014-04-21 14:26:37.447 2562 INFO nova.openstack.common.rpc.common [req-601ce367-afa2-4493-82ed-59a476236b3c None None] Connected to AMQP server on csi:5672
+2014-04-21 15:57:33.961 2092 INFO nova.openstack.common.periodic_task [req-e5a584e7-6e60-4432-b630-3e9c5cc7865f None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 15:57:33.962 2092 INFO nova.network.driver [req-e5a584e7-6e60-4432-b630-3e9c5cc7865f None None] Loading network driver 'nova.network.linux_net'
+2014-04-21 16:16:54.721 3383 INFO nova.openstack.common.rpc.common [req-6e56e5b4-d56a-4dfb-ae14-6221178d8dac None None] Connected to AMQP server on csi:5672
+2014-04-21 16:17:57.159 3709 INFO nova.openstack.common.rpc.common [req-0d7af298-d9f5-4e6c-8e99-604f23b390e1 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:19:15.543 4150 INFO nova.openstack.common.rpc.common [req-7e244f6d-0a62-49a0-9042-e1aabc511ac5 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:19:28.595 4410 INFO nova.openstack.common.rpc.common [req-ead56a0b-01bb-4e11-98b4-2591e6a0d8e2 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:19:44.373 4689 INFO nova.openstack.common.rpc.common [req-8c5f1c80-6e7f-4e18-8526-413f6bbf06f1 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:20:26.681 5147 INFO nova.openstack.common.rpc.common [req-b2da4019-736b-48d3-9b2b-7ebcb5afd0c6 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:20:42.562 5460 INFO nova.openstack.common.rpc.common [req-bf8c96af-25b9-4a81-a17f-c2c48d76903a None None] Connected to AMQP server on csi:5672
+2014-04-21 16:21:06.775 5851 INFO nova.openstack.common.rpc.common [req-859c72be-64b3-4b63-9aec-09fafd4f909b None None] Connected to AMQP server on csi:5672
+2014-04-21 16:21:34.163 6215 INFO nova.openstack.common.rpc.common [req-2ea664bf-b580-4500-9b1a-bef8f2dafda1 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:21:51.280 6612 INFO nova.openstack.common.rpc.common [req-a17bce91-bbdb-4c44-89d6-0e39a86c1fbc None None] Connected to AMQP server on csi:5672
+2014-04-21 16:22:18.612 7027 INFO nova.openstack.common.rpc.common [req-16e37c09-3dae-48d3-a772-10afd6c3bfaf None None] Connected to AMQP server on csi:5672
+2014-04-21 16:22:38.842 7625 INFO nova.openstack.common.rpc.common [req-376b3553-7fc0-499f-90d8-e0465e891549 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:22:51.921 8010 INFO nova.openstack.common.rpc.common [req-13a15aaa-b8bf-4ddb-a33c-0d1fd81b930d None None] Connected to AMQP server on csi:5672
+2014-04-21 16:23:06.441 8438 INFO nova.openstack.common.rpc.common [req-f6b066f2-6977-42c0-a9cb-122d1af5d3bf None None] Connected to AMQP server on csi:5672
+2014-04-21 16:23:19.763 8677 INFO nova.openstack.common.rpc.common [req-0cf2851b-f14d-49ca-bf03-8975212e134c None None] Connected to AMQP server on csi:5672
+2014-04-21 16:24:40.484 9496 INFO nova.openstack.common.rpc.common [req-d23c04af-e375-43be-896e-1bd5b5a87209 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:25:11.553 9955 INFO nova.openstack.common.rpc.common [req-401b8c0e-172c-482c-8d08-ecc39fc85159 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:25:29.760 10412 INFO nova.openstack.common.rpc.common [req-023de2a7-0875-43c4-b068-4803b4493129 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:29:49.601 12282 INFO nova.openstack.common.rpc.common [req-f10032c4-ee24-4d2e-b6d9-19c5ffda71aa None None] Connected to AMQP server on csi:5672
+2014-04-21 16:29:57.159 12514 INFO nova.openstack.common.rpc.common [req-1b706cf0-9b48-494a-9389-3a430f39f97b None None] Connected to AMQP server on csi:5672
+2014-04-21 16:31:06.901 13227 INFO nova.openstack.common.rpc.common [req-751cf9f1-72d9-41de-8c25-f60c2f784774 None None] Connected to AMQP server on csi:5672
+2014-04-21 16:32:21.990 13963 INFO nova.openstack.common.rpc.common [req-214e74af-f378-42f4-a330-be3ce931e894 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:30:46.506 31783 INFO nova.openstack.common.rpc.common [req-8a78f055-4f90-4eb4-acb9-1843ceebee30 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:35:52.226 1332 INFO nova.openstack.common.rpc.common [req-446ae6b3-763f-462d-b23a-8c9d1011a814 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:43:57.008 4446 INFO nova.openstack.common.rpc.common [req-58c85d9e-c498-494d-abb9-985be7c10878 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:44:32.481 5063 INFO nova.openstack.common.rpc.common [req-a5ec6d57-fb52-4b29-8fc3-bd6b03a1bc09 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:44:50.197 5394 INFO nova.openstack.common.rpc.common [req-c85d1efb-979f-4ce5-9aa2-78abaa8ca8c6 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:00.594 5483 INFO nova.openstack.common.rpc.common [req-72de6ed5-6f16-43d0-a0a5-7d3b9be7fbc2 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:03.136 5497 INFO nova.openstack.common.rpc.common [req-b538e649-5ca7-41cb-b213-828ab4b54061 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:21.547 5614 INFO nova.openstack.common.rpc.common [req-9c1d3135-6dc9-496f-8623-2e6d6cd087ef None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:22.002 5621 INFO nova.openstack.common.rpc.common [req-1a39d2e6-7472-4ece-8573-aa6a0db52f17 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:33.549 5635 INFO nova.openstack.common.rpc.common [req-c9eacf81-3d71-4027-a17a-966de68ab2c1 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:34.004 5642 INFO nova.openstack.common.rpc.common [req-493e590a-6583-4ace-9df7-f5287e0d7d49 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:37.634 5649 INFO nova.openstack.common.rpc.common [req-d52c3c8a-0b9b-409b-98c5-5966e504a9dc None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:49.621 5663 INFO nova.openstack.common.rpc.common [req-d22aac31-f87a-4d47-8cb3-1d08d4a46260 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:50.075 5670 INFO nova.openstack.common.rpc.common [req-37d2b9db-3e1a-45a6-8372-47446f2dd391 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:45:50.530 5677 INFO nova.openstack.common.rpc.common [req-cf5afc22-1162-41d9-9240-fb9ef15cd298 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:00.653 5684 INFO nova.openstack.common.rpc.common [req-3b17b715-084c-41b4-a39b-1813b28444bb None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:01.119 5691 INFO nova.openstack.common.rpc.common [req-3781071a-7a24-4a43-9282-67a5de850c20 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:01.560 5698 INFO nova.openstack.common.rpc.common [req-87c0a332-b83c-4173-b4de-a7656450388b None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:21.622 5822 INFO nova.openstack.common.rpc.common [req-b8843458-b385-4dfc-9f28-8680480f03d8 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:22.082 5830 INFO nova.openstack.common.rpc.common [req-b016b570-b580-4325-8829-bc8def3806d3 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:37.672 5844 INFO nova.openstack.common.rpc.common [req-9b970fe7-f078-4ee7-8322-cebf3219fe7b None None] Connected to AMQP server on csi:5672
+2014-04-21 17:46:59.672 5858 INFO nova.openstack.common.rpc.common [req-46e468b5-ebe8-4398-837c-bc6893085b20 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:48:47.743 6257 INFO nova.openstack.common.rpc.common [req-98ce15df-d561-41b0-a458-097e5cc4cf9b None None] Connected to AMQP server on csi:5672
+2014-04-21 17:49:12.729 6558 INFO nova.openstack.common.rpc.common [req-a2bdebc7-08aa-4e65-90ed-ecf1fc12130f None None] Connected to AMQP server on csi:5672
+2014-04-21 17:50:19.910 2383 INFO nova.openstack.common.periodic_task [req-ebacd125-9c2d-4d5f-929c-9c15963fed60 None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 17:50:19.911 2383 INFO nova.network.driver [req-ebacd125-9c2d-4d5f-929c-9c15963fed60 None None] Loading network driver 'nova.network.linux_net'
+2014-04-21 17:52:29.472 2656 INFO nova.openstack.common.rpc.common [req-d5bc05ef-4ae7-4110-aac5-6ebceda34904 None None] Connected to AMQP server on csi:5672
+2014-04-21 17:52:29.902 2663 INFO nova.openstack.common.rpc.common [req-18abcf9c-e9a3-4464-ba1d-1ffa3f44259d None None] Connected to AMQP server on csi:5672
+2014-04-21 17:52:30.324 2670 INFO nova.openstack.common.rpc.common [req-67912ee0-7a66-4a7a-be59-1a61dabb3b6b None None] Connected to AMQP server on csi:5672
+2014-04-21 17:56:42.880 3623 INFO nova.openstack.common.rpc.common [req-75f6c23a-ccde-4cd5-9d17-f2b6d103d65b None None] Connected to AMQP server on csi:5672
+2014-04-21 17:58:07.225 4091 INFO nova.openstack.common.rpc.common [req-39939483-eb0b-4c0c-a0e3-353555ca9134 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:01:03.861 4802 INFO nova.openstack.common.rpc.common [req-158510eb-7951-411c-855e-0b059446fd05 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:06:41.351 6012 INFO nova.openstack.common.rpc.common [req-146fda3c-b34d-4438-80a8-15f10050afe9 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:06:43.584 6078 INFO nova.openstack.common.rpc.common [req-6ae0c5f2-aee4-4f43-b350-63a420e386be None None] Connected to AMQP server on csi:5672
+2014-04-21 18:06:44.470 6251 INFO nova.openstack.common.rpc.common [req-4098eb03-b73d-445e-bf2f-d2505a3099c8 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:14:18.551 7133 INFO nova.openstack.common.rpc.common [req-16e9051d-e7a2-48be-9f85-05596660f27d None None] Connected to AMQP server on csi:5672
+2014-04-21 18:28:03.318 8270 INFO nova.openstack.common.rpc.common [req-1a8ecc8c-e352-4e34-96b5-53c9259c6bc7 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:31:20.950 8817 INFO nova.openstack.common.rpc.common [req-bdb04bb1-cddf-430e-984f-2a9f407f0148 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:40:59.441 9699 INFO nova.openstack.common.rpc.common [req-698f5c39-125e-47ee-99ee-2b9c18f747b0 None None] Connected to AMQP server on csi:5672
+2014-04-21 18:42:29.870 10084 INFO nova.openstack.common.rpc.common [req-7046e5f3-0516-4300-9e9a-c0d5abaad247 None None] Connected to AMQP server on csi:5672
+2014-04-22 10:35:21.558 23534 INFO nova.openstack.common.rpc.common [req-c83c6188-5eb3-47f6-9544-1def44db0b3b None None] Connected to AMQP server on csi:5672
+2014-04-22 11:06:41.371 25942 ERROR nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] AMQP server on csi:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2014-04-22 11:06:42.372 25942 INFO nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] Reconnecting to AMQP server on csi:5672
+2014-04-22 11:06:42.380 25942 ERROR nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] AMQP server on csi:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 3 seconds.
+2014-04-22 11:06:45.398 25942 INFO nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] Reconnecting to AMQP server on csi:5672
+2014-04-22 11:06:45.405 25942 ERROR nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] AMQP server on csi:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 5 seconds.
+2014-04-22 11:06:50.420 25942 INFO nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] Reconnecting to AMQP server on csi:5672
+2014-04-22 11:06:50.428 25942 ERROR nova.openstack.common.rpc.common [req-78ed13a8-fbf4-4f89-bf9b-ced0be357c35 None None] AMQP server on csi:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 7 seconds.
+2014-04-22 11:07:31.318 2199 INFO nova.openstack.common.periodic_task [req-6a3c9ddf-b89f-4ebd-ac38-57f6ca93f04f None None] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-22 11:07:31.319 2199 INFO nova.network.driver [req-6a3c9ddf-b89f-4ebd-ac38-57f6ca93f04f None None] Loading network driver 'nova.network.linux_net'
+2014-04-22 11:09:41.874 2467 INFO nova.openstack.common.rpc.common [req-2a64afcc-b009-4c73-b67e-d9537ab6f9ec None None] Connected to AMQP server on csi:5672
+2014-04-22 11:09:42.307 2474 INFO nova.openstack.common.rpc.common [req-b11b15f1-2722-4adf-97af-68ec7bd326d0 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:16:36.617 2812 INFO nova.openstack.common.rpc.common [req-43664fd7-34f7-430e-b360-3c8dac2315b4 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:16:43.146 3056 INFO nova.openstack.common.rpc.common [req-d1e9b90a-6d18-494e-8ade-e8d0a388bd9b None None] Connected to AMQP server on csi:5672
+2014-04-22 11:21:33.770 4005 INFO nova.openstack.common.rpc.common [req-b4017c7a-efc4-4706-9859-bac95bb9b83d None None] Connected to AMQP server on csi:5672
+2014-04-22 11:23:29.876 4910 INFO nova.openstack.common.rpc.common [req-23d5cdea-eb93-4cab-aff3-446a3e1ac061 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:23:45.374 5282 INFO nova.openstack.common.rpc.common [req-ec34d1f6-a413-4fd1-bbd7-1fb01251a0b7 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:23:58.466 5566 INFO nova.openstack.common.rpc.common [req-333e2512-e6a7-4864-a4f5-28dd871cfe3e None None] Connected to AMQP server on csi:5672
+2014-04-22 11:24:11.788 5847 INFO nova.openstack.common.rpc.common [req-8efb5b35-e889-4a78-aa3e-1f67a6ed1cd4 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:51:40.143 10753 INFO nova.openstack.common.rpc.common [req-17a2c553-da9c-4eae-b5e8-021b61027324 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:52:42.981 11295 INFO nova.openstack.common.rpc.common [req-e7c0e45c-1f4f-42f3-91f5-ef6928c5ff4b None None] Connected to AMQP server on csi:5672

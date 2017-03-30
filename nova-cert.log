@@ -1,0 +1,428 @@
+2014-04-16 21:01:48.681 8499 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-16 21:01:48.729 8499 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-16 21:01:52.741 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 1 seconds.
+2014-04-16 21:01:53.743 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:01:56.759 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 3 seconds.
+2014-04-16 21:01:59.761 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:02:02.776 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 5 seconds.
+2014-04-16 21:02:07.780 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:02:10.792 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 7 seconds.
+2014-04-16 21:02:17.798 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:02:20.812 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 9 seconds.
+2014-04-16 21:02:29.820 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:02:32.835 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 11 seconds.
+2014-04-16 21:02:43.842 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:02:46.857 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 13 seconds.
+2014-04-16 21:02:59.869 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:03:02.885 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 15 seconds.
+2014-04-16 21:03:17.899 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:03:20.915 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 17 seconds.
+2014-04-16 21:03:37.931 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:03:40.947 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 19 seconds.
+2014-04-16 21:03:59.965 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:04:02.980 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 21 seconds.
+2014-04-16 21:04:23.989 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:04:27.004 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 23 seconds.
+2014-04-16 21:04:50.012 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:04:53.028 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 25 seconds.
+2014-04-16 21:05:18.030 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:05:21.046 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 27 seconds.
+2014-04-16 21:05:48.049 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:05:51.064 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 29 seconds.
+2014-04-16 21:06:20.069 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:06:23.085 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:06:53.091 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:06:56.107 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:07:26.136 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:07:29.144 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:07:59.173 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:08:02.188 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:08:32.217 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:08:35.233 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:09:05.240 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:09:08.255 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:09:38.284 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:09:41.300 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:10:11.302 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:10:14.317 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:10:44.328 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:10:47.343 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:11:17.372 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:11:20.387 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:11:50.394 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:11:53.410 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:12:23.439 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:12:26.455 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:12:56.478 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:12:59.494 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:13:29.523 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:13:32.539 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:14:02.568 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:14:05.583 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:14:35.590 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:14:38.606 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:15:08.616 8499 INFO nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] Reconnecting to AMQP server on localhost:5672
+2014-04-16 21:15:11.632 8499 ERROR nova.openstack.common.rpc.common [req-b8eb379a-dc32-4d31-baad-f6692a0960c4 None None] AMQP server on localhost:5672 is unreachable: Socket closed. Trying again in 30 seconds.
+2014-04-16 21:15:33.906 8499 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-16 21:15:35.053 8814 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-16 21:15:35.124 8814 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-16 21:15:36.020 8814 INFO nova.openstack.common.rpc.common [req-b1da0bc8-f13b-4b56-b47b-32078218a000 None None] Connected to AMQP server on csi:5672
+2014-04-16 21:18:08.566 8814 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-16 21:18:09.806 9047 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-16 21:18:09.950 9047 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-16 21:18:10.819 9047 INFO nova.openstack.common.rpc.common [req-e4863b11-8a1c-48eb-94c0-5fb90c1f8aea None None] Connected to AMQP server on csi:5672
+2014-04-16 21:47:47.122 9047 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-17 09:36:31.413 962 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 09:36:31.585 962 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-17 09:36:33.271 962 INFO nova.openstack.common.rpc.common [req-12c181be-de1e-415c-93e6-d5a4d00231e3 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:15:42.854 962 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-17 14:16:55.316 959 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 14:16:55.523 959 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-17 14:16:56.452 959 INFO nova.openstack.common.rpc.common [req-74b155a6-90db-4a89-807c-6541db300f48 None None] Connected to AMQP server on csi:5672
+2014-04-17 14:37:22.130 959 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-17 14:38:34.862 941 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 14:38:35.421 941 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-17 14:38:36.382 941 INFO nova.openstack.common.rpc.common [req-7bd03ca1-5710-4b82-8b6b-7abacde523fb None None] Connected to AMQP server on csi:5672
+2014-04-17 17:15:09.107 941 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-17 17:16:23.973 951 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-17 17:16:24.217 951 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-17 17:16:25.232 951 INFO nova.openstack.common.rpc.common [req-761049c4-2d25-4d25-b3ce-e15289b4d812 None None] Connected to AMQP server on csi:5672
+2014-04-17 18:14:50.221 951 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-21 14:24:20.648 963 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 14:24:20.963 963 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 14:24:21.940 963 INFO nova.openstack.common.rpc.common [req-ae74f10a-2f41-4b7f-bca0-f4279d7ea55c None None] Connected to AMQP server on csi:5672
+2014-04-21 14:41:09.067 1086 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 14:41:09.359 1086 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 14:41:10.116 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:41:20.128 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:41:30.139 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:41:40.151 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:41:50.163 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:44:07.435 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:44:19.743 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:44:31.747 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:44:44.755 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:44:56.771 1086 WARNING nova.openstack.common.db.sqlalchemy.session [req-ebfbf9ea-c59c-47b0-90fb-bc6dcb0af18b None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:45:06.857 1086 ERROR nova.openstack.common.threadgroup [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (113)") None None
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup Traceback (most recent call last):
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 117, in wait
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     x.wait()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 49, in wait
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self.thread.wait()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self._exit_event.wait()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return hubs.get_hub().switch()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self.greenlet.switch()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     result = function(*args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/service.py", line 65, in run_service
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     service.start()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/service.py", line 159, in start
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     self.host, self.binary)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/api.py", line 244, in service_get_by_args
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     binary=binary)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/utils.py", line 1094, in wrapper
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 439, in inner
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return catch_client_exception(exceptions, func, *args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 420, in catch_client_exception
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/manager.py", line 420, in service_get_all_by
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     result = self.db.service_get_by_args(context, host, binary)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/api.py", line 156, in service_get_by_args
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 108, in wrapper
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return f(*args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 449, in service_get_by_args
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     result = model_query(context, models.Service).\
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 190, in model_query
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     session = kwargs.get('session') or get_session()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 423, in get_session
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     engine = get_engine(sqlite_fk=sqlite_fk, slave_engine=slave_session)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 561, in get_engine
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     sqlite_fk=sqlite_fk)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 690, in create_engine
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     engine.connect()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self._connection_cls(self, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self.pool.unique_connection()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return _ConnectionFairy(self).checkout()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     rec = self._connection_record = pool._do_get()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     con = self._create_connection()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return _ConnectionRecord(self)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     self.connection = self.__connect()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     connection = self.__pool._creator()
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     return Connection(*args, **kwargs)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (113)") None None
+2014-04-21 14:45:06.857 1086 TRACE nova.openstack.common.threadgroup 
+2014-04-21 14:49:30.232 969 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 14:49:30.484 969 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 14:49:31.264 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:49:41.275 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:49:51.287 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:50:01.298 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:50:11.310 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:50:21.321 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:50:31.333 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:50:41.344 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:50:51.356 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:51:01.368 969 WARNING nova.openstack.common.db.sqlalchemy.session [req-1ef5ed7c-9665-410c-84dc-b26b126d2153 None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:51:11.445 969 ERROR nova.openstack.common.threadgroup [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup Traceback (most recent call last):
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 117, in wait
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     x.wait()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 49, in wait
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self.thread.wait()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self._exit_event.wait()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return hubs.get_hub().switch()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self.greenlet.switch()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     result = function(*args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/service.py", line 65, in run_service
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     service.start()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/service.py", line 159, in start
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     self.host, self.binary)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/api.py", line 244, in service_get_by_args
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     binary=binary)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/utils.py", line 1094, in wrapper
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 439, in inner
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return catch_client_exception(exceptions, func, *args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 420, in catch_client_exception
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/manager.py", line 420, in service_get_all_by
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     result = self.db.service_get_by_args(context, host, binary)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/api.py", line 156, in service_get_by_args
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 108, in wrapper
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return f(*args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 449, in service_get_by_args
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     result = model_query(context, models.Service).\
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 190, in model_query
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     session = kwargs.get('session') or get_session()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 423, in get_session
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     engine = get_engine(sqlite_fk=sqlite_fk, slave_engine=slave_session)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 561, in get_engine
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     sqlite_fk=sqlite_fk)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 690, in create_engine
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     engine.connect()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self._connection_cls(self, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self.pool.unique_connection()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return _ConnectionFairy(self).checkout()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     rec = self._connection_record = pool._do_get()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     con = self._create_connection()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return _ConnectionRecord(self)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     self.connection = self.__connect()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     connection = self.__pool._creator()
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     return Connection(*args, **kwargs)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:51:11.445 969 TRACE nova.openstack.common.threadgroup 
+2014-04-21 14:54:51.357 966 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 14:54:51.678 966 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 14:54:52.443 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 10 attempts left.
+2014-04-21 14:55:02.454 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 9 attempts left.
+2014-04-21 14:55:12.466 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 8 attempts left.
+2014-04-21 14:55:22.477 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 7 attempts left.
+2014-04-21 14:55:32.489 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 6 attempts left.
+2014-04-21 14:55:42.500 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 5 attempts left.
+2014-04-21 14:55:52.511 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 4 attempts left.
+2014-04-21 14:56:02.523 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 3 attempts left.
+2014-04-21 14:56:12.532 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 2 attempts left.
+2014-04-21 14:56:22.540 966 WARNING nova.openstack.common.db.sqlalchemy.session [req-c90b3d07-a836-4703-8d3b-eb07e758a047 None None] SQL connection failed. 1 attempts left.
+2014-04-21 14:56:32.682 966 ERROR nova.openstack.common.threadgroup [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup Traceback (most recent call last):
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 117, in wait
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     x.wait()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 49, in wait
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self.thread.wait()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self._exit_event.wait()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return hubs.get_hub().switch()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self.greenlet.switch()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     result = function(*args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/service.py", line 65, in run_service
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     service.start()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/service.py", line 159, in start
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     self.host, self.binary)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/api.py", line 244, in service_get_by_args
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     binary=binary)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/utils.py", line 1094, in wrapper
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 439, in inner
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return catch_client_exception(exceptions, func, *args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 420, in catch_client_exception
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/manager.py", line 420, in service_get_all_by
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     result = self.db.service_get_by_args(context, host, binary)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/api.py", line 156, in service_get_by_args
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 108, in wrapper
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return f(*args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 449, in service_get_by_args
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     result = model_query(context, models.Service).\
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 190, in model_query
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     session = kwargs.get('session') or get_session()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 423, in get_session
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     engine = get_engine(sqlite_fk=sqlite_fk, slave_engine=slave_session)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 561, in get_engine
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     sqlite_fk=sqlite_fk)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 690, in create_engine
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     engine.connect()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self._connection_cls(self, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     self.__connection = connection or engine.raw_connection()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self.pool.unique_connection()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return _ConnectionFairy(self).checkout()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     rec = self._connection_record = pool._do_get()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     con = self._create_connection()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return _ConnectionRecord(self)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     self.connection = self.__connect()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     connection = self.__pool._creator()
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return dialect.connect(*cargs, **cparams)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     return Connection(*args, **kwargs)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 14:56:32.682 966 TRACE nova.openstack.common.threadgroup 
+2014-04-21 15:43:06.068 994 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 15:43:06.378 994 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 15:43:06.918 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 10 attempts left.
+2014-04-21 15:43:16.927 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 9 attempts left.
+2014-04-21 15:43:26.938 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 8 attempts left.
+2014-04-21 15:43:36.950 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 7 attempts left.
+2014-04-21 15:43:46.961 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 6 attempts left.
+2014-04-21 15:43:56.972 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 5 attempts left.
+2014-04-21 15:44:06.984 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 4 attempts left.
+2014-04-21 15:44:16.991 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 3 attempts left.
+2014-04-21 15:44:27.003 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 2 attempts left.
+2014-04-21 15:44:37.014 994 WARNING nova.openstack.common.db.sqlalchemy.session [req-361538dc-30da-40aa-b856-1cbe479617de None None] SQL connection failed. 1 attempts left.
+2014-04-21 15:44:47.105 994 ERROR nova.openstack.common.threadgroup [-] (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup Traceback (most recent call last):
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 117, in wait
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     x.wait()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/threadgroup.py", line 49, in wait
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self.thread.wait()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 168, in wait
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self._exit_event.wait()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/event.py", line 116, in wait
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return hubs.get_hub().switch()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/hubs/hub.py", line 187, in switch
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self.greenlet.switch()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/eventlet/greenthread.py", line 194, in main
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     result = function(*args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/service.py", line 65, in run_service
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     service.start()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/service.py", line 159, in start
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     self.host, self.binary)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/api.py", line 244, in service_get_by_args
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     binary=binary)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/utils.py", line 1094, in wrapper
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 439, in inner
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return catch_client_exception(exceptions, func, *args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/rpc/common.py", line 420, in catch_client_exception
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return func(*args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/conductor/manager.py", line 420, in service_get_all_by
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     result = self.db.service_get_by_args(context, host, binary)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/api.py", line 156, in service_get_by_args
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return IMPL.service_get_by_args(context, host, binary)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 108, in wrapper
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return f(*args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 449, in service_get_by_args
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     result = model_query(context, models.Service).\
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/db/sqlalchemy/api.py", line 190, in model_query
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     session = kwargs.get('session') or get_session()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 423, in get_session
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     engine = get_engine(sqlite_fk=sqlite_fk, slave_engine=slave_session)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 561, in get_engine
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     sqlite_fk=sqlite_fk)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/nova/openstack/common/db/sqlalchemy/session.py", line 690, in create_engine
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     engine.connect()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1641, in connect
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self._connection_cls(self, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 59, in __init__
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     self.__connection = connection or engine.raw_connection()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/base.py", line 1699, in raw_connection
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self.pool.unique_connection()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 220, in unique_connection
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return _ConnectionFairy(self).checkout()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 425, in __init__
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     rec = self._connection_record = pool._do_get()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 778, in _do_get
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     con = self._create_connection()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 225, in _create_connection
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return _ConnectionRecord(self)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 318, in __init__
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     self.connection = self.__connect()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/pool.py", line 368, in __connect
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     connection = self.__pool._creator()
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/strategies.py", line 80, in connect
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return dialect.connect(*cargs, **cparams)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/sqlalchemy/engine/default.py", line 283, in connect
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return self.dbapi.connect(*cargs, **cparams)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     return Connection(*args, **kwargs)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup     super(Connection, self).__init__(*args, **kwargs2)
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup OperationalError: (OperationalError) (2003, "Can't connect to MySQL server on 'csi' (101)") None None
+2014-04-21 15:44:47.105 994 TRACE nova.openstack.common.threadgroup 
+2014-04-21 15:56:26.002 965 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-21 15:56:26.316 965 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-21 15:56:27.272 965 INFO nova.openstack.common.rpc.common [req-823fb968-0ba0-4af4-953b-aeffb7b63c09 None None] Connected to AMQP server on csi:5672
+2014-04-22 11:05:16.843 965 INFO nova.openstack.common.service [-] Caught SIGTERM, exiting
+2014-04-22 11:06:30.317 969 INFO nova.openstack.common.periodic_task [-] Skipping periodic task _periodic_update_dns because its interval is negative
+2014-04-22 11:06:30.691 969 AUDIT nova.service [-] Starting cert node (version 2013.2.2)
+2014-04-22 11:06:31.611 969 INFO nova.openstack.common.rpc.common [req-0f04c775-a714-47d2-8bf7-2bd96ee472e2 None None] Connected to AMQP server on csi:5672
